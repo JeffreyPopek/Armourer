@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Load.unity
+    guid: 94ce7a11437f500418c8ac99c210b8a9
+  - enabled: 1
+    path: Assets/Scenes/PlayerStats.unity
+    guid: 5c60cb625002c5c419d51d4a2524866b
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 55680acf587dd154ba3e157dff585180
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 996baf95fac6b8947980cd607f49a730
+  - enabled: 1
+    path: Assets/Scenes/Woodcutting.unity
+    guid: 269e64d9b4c571046aa1c699730e235e
+  - enabled: 1
+    path: Assets/Scenes/Mining.unity
+    guid: 2915c328bff918b4c902a99016061623
+  - enabled: 1
+    path: Assets/Scenes/Smelting.unity
+    guid: 93d780954824ea84a8831fea0386f28e
+  - enabled: 0
+    path: 
+    guid: 17bd3332fe7774344afb263c582d8c80
+  - enabled: 0
+    path: 
+    guid: 24c18817ca3615744960174bf77421cb
+  - enabled: 1
+    path: Assets/Scenes/Crafting.unity
+    guid: d5a41dc6cf49cfd46b8a7e4e3db47ae3
+  - enabled: 1
+    path: Assets/Scenes/WinningScene.unity
+    guid: 398e746a8a8eb714a89d2db2dd98829a
+  - enabled: 1
+    path: Assets/Scenes/Lore.unity
+    guid: 879a5a4b22b824046ba97da1d88f0248
+  m_configObjects: {}
